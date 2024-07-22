@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    max-width: 1920px;
+    margin: 0 auto;
+    padding: 0 165px;
+}
+
+/* navbar */
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 48px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+nav div {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+}
+
+nav #logo{
+    width: 161px;
+    height: auto;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+nav svg{
+    width: 9px;
+    height: auto;
+}
+
+nav #profile{
+    width: 32px;
+    height: auto;
+}
+
+/* categories */
+#categories{
+    margin-bottom: 48px;
+}
+
+h2{
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 72px;
+    text-transform: capitalize;
+}
+
+#category__container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: wrap;
+    gap: 12px;
+}
+
+.category img{
+    width: 255px;
+    height: 255px;
+    display: block;
+    object-fit: cover;
+    margin: 0 auto;
+}
+
+.category p{
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    text-transform: capitalize;
+}
