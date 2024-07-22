@@ -4,63 +4,63 @@ const categories = [
         img: "./images/Link.jpg",
     },
     {
-        label: "seafood",
+        label: "soup",
         img: "./images/Link-1.jpg",
     }, {
-        label: "seafood",
+        label: "pancakes",
         img: "./images/Link-2.jpg",
     }, {
-        label: "seafood",
+        label: "meat",
         img: "./images/Link-3.jpg",
     }, {
-        label: "seafood",
+        label: "chicken",
         img: "./images/Link-4.jpg",
     }, {
-        label: "seafood",
+        label: "less than 30 min",
         img: "./images/Link-5.jpg",
     }, {
-        label: "seafood",
+        label: "pasta",
         img: "./images/Link-6.jpg",
     }, {
-        label: "seafood",
+        label: "pizza",
         img: "./images/Link-7.jpg",
     }, {
-        label: "seafood",
+        label: "cake",
         img: "./images/Link-8.jpg",
     }, {
-        label: "seafood",
+        label: "pastries",
         img: "./images/Link-9.jpg",
     }, {
-        label: "seafood",
+        label: "burger",
         img: "./images/Link-10.jpg",
     }, {
-        label: "seafood",
+        label: "vegan",
         img: "./images/Link-11.jpg",
     }, {
-        label: "seafood",
+        label: "desserts",
         img: "./images/Link-12.jpg",
     }, {
-        label: "seafood",
+        label: "smoothies",
         img: "./images/Link-13.jpg",
     }, {
-        label: "seafood",
+        label: "breakfast",
         img: "./images/Link-14.jpg",
     }, {
-        label: "seafood",
+        label: "salad",
         img: "./images/Link-15.jpg",
     }, {
-        label: "seafood",
+        label: "sandwiches",
         img: "./images/Link-16.jpg",
     }, {
-        label: "seafood",
+        label: "waffles",
         img: "./images/Link-17.jpg",
     },
     {
-        label: "seafood",
+        label: "ramen",
         img: "./images/Link-18.jpg",
     },
     {
-        label: "seafood",
+        label: "dips",
         img: "./images/Link-19.jpg",
     },
 ]
