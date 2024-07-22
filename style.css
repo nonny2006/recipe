@@ -6,8 +6,9 @@
 
 .body{
     max-width: 1920px;
-    margin: 0 auto;
-    padding: 0 165px;
+    /* margin: 0 auto; */
+    padding-left: 165px;
+    padding-right: 165px;
     font-family: "Playfair Display", serif;
 }
 
@@ -17,9 +18,9 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 48px;
-    padding-top: 48px;
-    padding-bottom: 48px;
+    margin-bottom: 24px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 nav div {
