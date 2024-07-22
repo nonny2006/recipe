@@ -82,13 +82,13 @@ function displayCategories(){
         const categoryP = document.createElement("p");
         categoryP.textContent = element.label;
 
-        category.appendChild("categoryImg");
-        category.appendChild("categoryP");
+        category.appendChild(categoryImg);
+        category.appendChild(categoryP);
 
         container.appendChild(category);
     }
 }
 
 window.addEventListener("load", () => {
-    displayCategories;
+    displayCategories();
 })
