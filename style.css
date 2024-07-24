@@ -43,7 +43,7 @@ nav a{
     gap: 4px;
 }
 
-nav #profile{
+nav #profile svg{
     width: 32px;
     height: auto;
 }
@@ -88,4 +88,5 @@ h2{
     font-weight: 600;
     font-size: 20px;
     text-transform: capitalize;
+    margin-bottom: 48px;
 }
